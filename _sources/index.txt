@@ -6,10 +6,14 @@
 Welcome to MathNotes's documentation!
 =====================================
 
+This is a test
+
 Contents:
 
 .. toctree::
    :maxdepth: 2
+
+   deep/index
 
 
 

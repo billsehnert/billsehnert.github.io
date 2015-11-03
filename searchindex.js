@@ -1,1 +1,1 @@
-Search.setIndex({envversion:46,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:0,index:0,modul:0,page:0,search:0},titles:["Welcome to MathNotes&#8217;s documentation!"],titleterms:{document:0,indic:0,mathnot:0,tabl:0,welcom:0}})
+Search.setIndex({envversion:46,filenames:["deep/index","index"],objects:{},objnames:{},objtypes:{},terms:{content:1,index:[0,1],modul:1,page:1,search:1,test:1,thi:[0,1]},titles:["A sub dir","Welcome to MathNotes&#8217;s documentation!"],titleterms:{dir:0,document:1,indic:1,mathnot:1,sub:0,tabl:1,welcom:1}})
